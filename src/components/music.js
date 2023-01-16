@@ -1,7 +1,12 @@
 import React from 'react';
 
 const Music = () => {
-    return `ESTO ES EL MUSIC`
+    return <><h3>ESTO ES EL MUSIC</h3>
+    <i>Acá va a ser un sector muy dinámico de la pagina, van a estar nuestros 3 lanzamientos (ep1, ep2 y aeiou) </i>
+    <i>Haces click en la tapa de cada uno y sale la lista de temas, les podes dar play y podes acceder a la letra</i>
+    <i>También al hacer click aparece una mini bío de cada lanzamiento y el año en el que salió</i>
+    <i>Acá podría hacer falta un musicDetails, un componente aparte para visualizar el disco individualmente</i>
+        </>
 }
 
 export default Music;
