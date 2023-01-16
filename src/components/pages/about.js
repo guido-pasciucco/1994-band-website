@@ -7,13 +7,15 @@ const About = () => {
     </p>
         <strong>Bandas con las que compartimos escenario</strong>
     
-        <i>107 Faunos - Las Ligas Menores - Javi Punga - Rayos de la Niñez - El Club Audiovisual , etc. </i>
+        <i>107 Faunos - Las Ligas Menores - Javi Punga - Riel - Rayos de la Niñez - El Club Audiovisual , etc. </i>
         <hr/>
         <strong>Lugares en los que hemos tocado</strong>
         <i>
             El Amergente Almagro - Cultura del Sur - Club Tucumán - Tío Bizarro - La Cigale - Ultra Bar - etc.
         </i>
-    
+        <p>Valentina Schwarz: Teclado, bajo y voz<br/>
+        Diego Medina: Guitarra y voz<br/>
+        Guido Pasciucco: Batería</p>
     </>
 }
 
