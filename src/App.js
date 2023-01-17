@@ -6,6 +6,8 @@ import Footer from './components/pages/footer.js'
 import About from './components/pages/about.js';
 import Contact from './components/pages/contact.js';
 import Music from './components/pages/music.js';
+import Shows from './components/pages/shows.js';
+
 
 function App() {
   return (
@@ -13,6 +15,7 @@ function App() {
       <header className="App-header">
       <Home/>
       <About/>
+      <Shows/>
       <Music/>
       <Contact/>
       <Footer/>
