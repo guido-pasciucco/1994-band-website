@@ -2,9 +2,7 @@ import React from 'react';
 
 const About = () => {
     return <><h3>ESTO ES EL ABOUT</h3>
-    
-    <p>
-    El primer día que nos conocimos creamos el borrador de mensaje
+    <p>El primer día que nos conocimos creamos el borrador de mensaje
     Durante toda la segunda mitad de 2015 nos concentramos en componer y grabar nuestro primer EP
     Todo el proceso fue casero y autogestivo, en la casa de Guido, con solo dos micrófonos dinámicos,
     una placa de audio de dos canales y un software de grabación gratuito.
@@ -21,23 +19,18 @@ const About = () => {
     y en un paralelismo con ese primer año 2015, 2022 también fue de puro trabajo interno para terminarlo con un recital íntimo
     entre amigos para después empezar 2023 tocando en uno de los escenarios más importantes del under argentino.
     </p>
-        <strong>Bandas con las que compartimos escenario</strong>
-    
-        <i>107 Faunos - Las Ligas Menores - Javi Punga - Riel - Rayos de la Niñez - El Club Audiovisual , Niño Mercurio etc. </i>
-        <hr/>
-        
-        
-        
-        <strong>Lugares en los que hemos tocado</strong>
-        <br/><br/><br/><br/>
-        <i><strong>El Amergente Almagro - Cultura del Sur - Club Tucumán</strong>
-        <strong>Tío Bizarro - La Cigale - Ultra Bar</strong>
-        <strong>La Cultura del Barrio - Salas Tifón - </strong>
-        </i>
-
-        <p>Valentina Schwarz: Teclado, bajo y voz<br/>
-        Diego Medina: Guitarra y voz<br/>
-        Guido Pasciucco: Batería</p>
+    <strong>Bandas con las que compartimos escenario</strong>
+    <i>107 Faunos - Las Ligas Menores - Javi Punga - Riel - Rayos de la Niñez - El Club Audiovisual , Niño Mercurio etc. </i>
+    <hr/>
+    <strong>Lugares en los que hemos tocado</strong>
+    <br/><br/><br/><br/>
+    <i><strong>El Amergente Almagro - Cultura del Sur - Club Tucumán</strong>
+    <strong>Tío Bizarro - La Cigale - Ultra Bar</strong>
+    <strong>La Cultura del Barrio - Salas Tifón - </strong>
+    </i>
+    <p>Valentina Schwarz: Teclado, bajo y voz<br/>
+    Diego Medina: Guitarra y voz<br/>
+    Guido Pasciucco: Batería</p>
     </>
 }
 

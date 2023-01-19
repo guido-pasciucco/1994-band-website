@@ -1,8 +1,16 @@
 import React from 'react';
+import VideoBg from '../../assets/videoBg.mp4'
+
 
 const Home = () => {
     return <>
-    <h1><i>1994</i></h1>
+    <div className='main'>
+        <div className='overlay'></div>
+        <video src={VideoBg} autoPlay loop muted/>
+        <div className='content'>
+            <h1>1994</h1>
+        </div>
+    </div>
     </>
 }
 

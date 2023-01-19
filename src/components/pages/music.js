@@ -1,8 +1,8 @@
 import React from 'react';
-import ep1cover from '../../img/ep1cover.jpg';
-import ep2cover from '../../img/ep2cover.png';
-import aeioucover from '../../img/aeioucover.jpg';
-import tapanueva from '../../img/tapanueva.jpg';
+import ep1cover from '../../assets/ep1cover.jpg';
+import ep2cover from '../../assets/ep2cover.png';
+import aeioucover from '../../assets/aeioucover.jpg';
+import tapanueva from '../../assets/tapanueva.jpg';
 
 const Music = () => {
     return <><h3>ESTO ES EL MUSIC</h3>
