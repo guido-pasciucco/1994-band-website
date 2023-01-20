@@ -5,10 +5,13 @@ import About from './components/pages/about.js';
 import Contact from './components/pages/contact.js';
 import Music from './components/pages/music.js';
 import Shows from './components/pages/shows.js';
+import NavBar from './components/pages/navBar.js';
 
 
 function App() {
   return (
+    <div>
+      <NavBar/>
     <div className="App">
       <header className="App-header">
       <Home/>
@@ -18,6 +21,7 @@ function App() {
       <Contact/>
       <Footer/>
       </header>
+    </div>
     </div>
   );
 }
