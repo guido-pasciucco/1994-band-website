@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+#description {
+  text-align: right;
+}
+
 *{
   margin: 0;
   padding: 0;
