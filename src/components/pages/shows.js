@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Shows = () => {
-    return <><h3>ESTO ES EL SHOWS</h3>
+    return <>
     <h4>Próximos</h4>
     <strong>26/5 - Auditorio Sur - Temperley</strong>
     <strong>30/5 - Uniclub - CABA</strong>

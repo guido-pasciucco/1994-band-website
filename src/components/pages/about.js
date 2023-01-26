@@ -5,8 +5,8 @@ import about4 from '../../assets/about4.jpg';
 
 const About = () => {
     return <>
-        <div className='container'>
-            <div className='row'>        
+        <div className='container' >
+            <div className='row'style={{ padding:"100px"}}>        
                 <div className='col-6'>
                     <img src={about1} width="300px"></img>
                 </div>
@@ -44,19 +44,6 @@ const About = () => {
                 </div>
             </div>
         </div>
-
-    <strong>Bandas con las que compartimos escenario</strong>
-    <i>107 Faunos - Las Ligas Menores - Javi Punga - Riel - Rayos de la Niñez - El Club Audiovisual , Niño Mercurio etc. </i>
-    <hr/>
-    <strong>Lugares en los que hemos tocado</strong>
-    <br/><br/><br/><br/>
-    <i><strong>El Amergente Almagro - Cultura del Sur - Club Tucumán</strong>
-    <strong>Tío Bizarro - La Cigale - Ultra Bar</strong>
-    <strong>La Cultura del Barrio - Salas Tifón - </strong>
-    </i>
-    <p>Valentina Schwarz: Teclado, bajo y voz<br/>
-    Diego Medina: Guitarra y voz<br/>
-    Guido Pasciucco: Batería</p>
     </>
 }
 
