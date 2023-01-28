@@ -5,10 +5,11 @@ import about4 from '../../assets/about4.jpg';
 
 const About = () => {
     return <>
+    <div>
         <div className='container' >
-            <div className='row'style={{ padding:"100px"}}>        
+            <div className='row'style={{ padding:"100px"}} id="styledGrid">        
                 <div className='col-6'>
-                    <img src={about1} width="300px"></img>
+                    <img src={about1} className="abtimg"></img>
                 </div>
                 <div className='col-6'>
                     <p>
@@ -28,10 +29,10 @@ const About = () => {
                     </p>
                 </div>
                 <div className='col-6'>
-                    <img src={about2} width="300px"></img>
+                    <img src={about2} className="abtimg"></img>
                 </div>
                 <div className='col-6'>
-                    <img src={about4} width="300px"></img>
+                    <img src={about4} className="abtimg"></img>
                 </div>
                 <div className='col-6'>
                     <p>
@@ -43,6 +44,7 @@ const About = () => {
                     </p>
                 </div>
             </div>
+        </div>
         </div>
     </>
 }

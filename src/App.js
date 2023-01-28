@@ -8,23 +8,20 @@ import Shows from './components/pages/shows.js';
 import NavBar from './components/pages/navBar.js';
 import Stats from './components/pages/stats.js';
 
-
 function App() {
   return (
-    <div>
-      <NavBar/>
-    <div className="App">
+      <>
+      <NavBar /><div className="App">
       <header className="App-header">
-      <Home/>
-      <About/>
-      <Stats/>
-      <Shows/>
-      <Music/>
-      <Contact/>
-      <Footer/>
+        <Home />
+        <About />
+        <Stats />
+        <Shows />
+        <Music />
+        <Contact />
+        <Footer />
       </header>
-    </div>
-    </div>
+    </div></>
   );
 }
 

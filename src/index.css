@@ -60,4 +60,38 @@ video{
   background-color: gr;
 }
 
+/*
+section {
+  display: flex !important;
+  width: 600px !important;
+  height: 430px !important;
+};
 
+section img {
+  width: 0px !important;
+  flex-grow: 1 !important;
+  object-fit: cover !important;
+  opacity: .8 !important;
+  transition: .5s ease !important;
+}
+
+section img:hover{
+  cursor: crosshair !important;
+  width: 300px !important;
+  opacity: 1 !important;
+  filter: contrast(120%) !important;
+}
+*/
+
+#styledGrid{
+  display: flex;
+  align-items: center;
+  margin: 0px 100px 0px 100px;
+}
+
+#styledGrid p {
+  font-size: 70%;
+}
+#styledGrid img {
+  width: 300px;
+}

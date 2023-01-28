@@ -6,11 +6,10 @@ import tapanueva from '../../assets/tapanueva.jpg';
 
 const Music = () => {
     return <>
-        <h3>ESTO ES EL MUSIC</h3>
         <div className='container'>
-            <div className='row'>        
+            <div className='row' id="styledGrid">        
                 <div className='col-6'>
-                    <img src={ep1cover} alt="cover EP 1" width={400} />
+                    <img src={ep1cover} alt="cover EP 1" />
                 </div>
                 <div className='col-6'>
                     <h3>EP 1</h3>
@@ -25,7 +24,7 @@ const Music = () => {
                     </ul>
                 </div>
                 <div className='col-6'>
-                    <img src={aeioucover} alt="aeiou" width={400} />  
+                    <img src={aeioucover} alt="aeiou" />  
                 </div>
                 <div className='col-6'>
                     <h3>AEIOU (simple)</h3>
@@ -36,7 +35,7 @@ const Music = () => {
                     </ul>
                 </div>
                 <div className='col-6'>
-                    <img src={ep2cover} alt="cover EP 2" width={400}/>
+                    <img src={ep2cover} alt="cover EP 2"/>
                 </div>
                 <div className='col-6'>
                     <h3>EP 2</h3>
@@ -50,7 +49,7 @@ const Music = () => {
                     </ul>
                 </div>
                 <div className='col-6'>
-                    <img src={tapanueva} alt="cover EP 2" width={400}/>
+                    <img src={tapanueva} alt="cover EP 2"/>
                 </div>
                 <div className='col-6'>
                     <h3>LP 1</h3>
