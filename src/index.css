@@ -5,7 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  /* fallback for old browsers */
+  background: #f093fb;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to bottom right, rgba(240, 147, 251, 1), rgba(245, 87, 108, 1));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to bottom right, rgba(240, 147, 251, 1), rgba(245, 87, 108, 1))
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
@@ -83,15 +93,15 @@ section img:hover{
 }
 */
 
-#styledGrid{
+.styledGrid{
   display: flex;
   align-items: center;
   margin: 0px 100px 0px 100px;
 }
 
-#styledGrid p {
+.styledGrid p {
   font-size: 70%;
 }
-#styledGrid img {
+.styledGrid img {
   width: 300px;
 }

@@ -1,15 +1,15 @@
 import React from 'react';
-import about1 from '../../assets/about1.jpg';
-import about2 from '../../assets/about2.jpg';
-import about4 from '../../assets/about4.jpg';
+import about1 from '../../assets/aboutImgs/about1.jpg';
+import about2 from '../../assets/aboutImgs/about2.jpg';
+import about4 from '../../assets/aboutImgs/about4.jpg';
 
 const About = () => {
     return <>
     <div>
         <div className='container' >
-            <div className='row'style={{ padding:"100px"}} id="styledGrid">        
+            <div className='row styledGrid'style={{ padding:"100px"}}>        
                 <div className='col-6'>
-                    <img src={about1} className="abtimg"></img>
+                    <img src={about1} className="abtimg" alt="nosotros"></img>
                 </div>
                 <div className='col-6'>
                     <p>
@@ -29,10 +29,10 @@ const About = () => {
                     </p>
                 </div>
                 <div className='col-6'>
-                    <img src={about2} className="abtimg"></img>
+                    <img src={about2} className="abtimg" alt="nosotros"></img>
                 </div>
                 <div className='col-6'>
-                    <img src={about4} className="abtimg"></img>
+                    <img src={about4} className="abtimg" alt="nosotros"></img>
                 </div>
                 <div className='col-6'>
                     <p>
