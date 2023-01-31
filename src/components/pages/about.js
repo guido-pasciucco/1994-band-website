@@ -13,11 +13,12 @@ const About = () => {
                 </div>
                 <div className='col-6'>
                     <p>
-                    El primer día que nos conocimos creamos el borrador de mensaje
-                    Durante toda la segunda mitad de 2015 nos concentramos en componer y grabar nuestro primer EP
+                    Nos conocimos por pura casualidad en junio del 2015,
+                    y el primer día que ensayamos compusimos muy espontáneamente "mensaje".
+                    El resto des ese año nos concentramos en seguir componiendo y grabar nuestro primer EP
                     Todo el proceso fue casero y autogestivo, en la casa de Guido, con solo dos micrófonos dinámicos,
                     una placa de audio de dos canales y un software de grabación gratuito.
-                    El 5 de diciembre de 2015, publicamos por primera vez en bandcamp.
+                    El 5 de diciembre de 2015, publicamos por primera vez en bandcamp y a fin de año tocamos por primera vez.
                     </p>
                 </div>
                 <div className='col-6'>
@@ -36,11 +37,12 @@ const About = () => {
                 </div>
                 <div className='col-6'>
                     <p>
-                    Luego de un período de inactividad entre 2018 y 2021.
-                    Nos reencontramos en 2022, (madurez, la vida).
-                    Darle un giro al proyecto más lindo que tuvimos en nuestras vidas, 
-                    y en un paralelismo con ese primer año 2015, 2022 también fue de puro trabajo interno para terminarlo con un recital íntimo
-                    entre amigos para después empezar 2023 tocando en uno de los escenarios más importantes del under argentino.
+                        En menos de 2 años de actividad, logramos compartir escenario con muchos
+                        de los grupos más relevantes de la escena de aquel entonces, así como También
+                        presentarnos en varios de los escenarios (auditorios, centros culturales) más
+                        importantes del under de Buenos Aires. Tras la separación de la banda, nuestras
+                        canciones siguieron circulando por internet hasta llegar a otros países y generar
+                        una comunidad de fanáticos de la banda, especialmente de Perú, México y Chile.
                     </p>
                 </div>
             </div>

@@ -7,20 +7,20 @@ import fotoGuido from '../../assets/members/fotoGuido.jpg';
 const Stats = () => {
     return <>
     <div>
-        <div style={{backgroundColor:"brown", padding:"100px"}}>
+        <div style={{padding:"100px"}}>
             <h3>Bandas con las que compartimos escenario</h3>
-            <i>
+            <p>
                 107 Faunos - Las Ligas Menores - Javi Punga - 
                 Riel - Rayos de la Niñez - El Club Audiovisual , Niño Mercurio etc.
-            </i>
+            </p>
         </div>
-        <div style={{backgroundColor:"green", padding:"100px"}}>
-            <h3>Lugares en los que hemos tocado</h3>
-            <i>
-                El Amergente Almagro - Cultura del Sur - Club Tucumán
-                Tío Bizarro - La Cigale - Ultra Bar
+        <div style={{padding:"100px"}}>
+            <h3>Lugares en los que tocamos</h3>
+            <p>
+                El Amergente Almagro - Cultura del Sur - Club Tucumán -
+                Tío Bizarro - La Cigale - Ultra Bar -
                 La Cultura del Barrio - Salas Tifón
-            </i>
+            </p>
         </div>
         <div className='container'>
             <div className='row styledGrid'>        

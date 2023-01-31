@@ -8,7 +8,7 @@ const Shows = () => {
         <strong>30/5 - Uniclub - CABA</strong><br></br>
         <strong>12/6 - Salón Pueyrredón - CABA</strong><br></br>    
         <h4>Pasados</h4><br></br>
-        <h5>2023</h5><br></br>
+        <h5>2023</h5>
         <strong>28/1 - Niceto Club - CABA</strong><br></br>
         <strong>21/1 - Pura Vida Bar - La Plata</strong><br></br>
         <strong>18/2 - Cooperativa Cultural Qi - CABA</strong><br></br>

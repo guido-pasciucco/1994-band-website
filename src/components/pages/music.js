@@ -58,11 +58,11 @@ const Music = () => {
                     <ul>
                         <li>esta vez es para siempre</li>
                         <li>lejos de la ciudad</li>
-                        <li>llgjfd lksdfjfglkfd</li>
-                        <li>ad dsfklgjsfd gagad</li>
-                        <li>udad</li>
-                        <li>llgjfdlkfd</li>
-                        <li>ad dsfklgjsfd g</li>
+                        <li>Lorem ipsum </li>
+                        <li>dolor sit amet. </li>
+                        <li>ipsum sit</li>
+                        <li>Lorem ipsum amet. </li>
+                        <li>ipsum dolor</li>
                     </ul>
                 </div>
             </div>
